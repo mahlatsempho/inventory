@@ -14,7 +14,7 @@
 	<div class="row text-center mb-4">
 		<div class="col-md-12">
             <br><br><br>
-		    <h4>Divine Wesels</h4>
+		    <h4>Divine Wesels Meriki Solomon</h4>
 		
 		</div>
 	</div>
